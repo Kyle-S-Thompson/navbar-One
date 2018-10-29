@@ -1,8 +1,8 @@
 <h1>Navbar Practice 01</h1>
-<h2>A simple warmup using vanilla CSS to build a navbar component</h2>
+<h3>A simple warmup using vanilla CSS to build a navbar component</h3>
 <hr>
 
-<h3>Features</h3>
+<h4>Features</h4>
 <ul>
   <li>Left aligned title </li>
   <li>3 links aligned to the right</li>
